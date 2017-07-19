@@ -44,6 +44,8 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
+
+    This is a test
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,4 +101,5 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
